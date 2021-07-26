@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    background: linear-gradient(purple,red);
+    border: solid 5px;
+}
+section{
+    margin:5px auto;
+    padding: 10px;
+}
+img{
+    height:200px;
+    width:300px;
+    transition: transform.2s;
+    margin-right: 40px;
+}
+img:hover{
+    transform: scale(0.9);
+}
+
+#flipkart{
+    height: 150px;
+    width: 250px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+h2{
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+    color: black;
+}
+h2:hover{
+    color: red;
+}
+.line{
+    height:8px;
+    width: 80px;
+    margin:5px auto;
+    background-color: black;
+}
+#zoom{
+    height: 150px;
+    width:250px;
+    margin:5px auto;
+    margin-bottom: 35px;
+}
+#sheet{
+    height: 150px;
+    width: 250px;
+    margin:5px auto;
+    margin-bottom: 35px;
+}
+h4{
+    margin: 5px auto;
+}
+#itune{
+    margin-right: 50px;
+    height: 150px;
+    width: 250px;
+    margin-bottom: 40px;
+}
+#kfc{
+     height: 150px;
+    width: 250px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+section{
+    border:solid 5px;
+    border-color: black;
+    background: linear-gradient(purple,orange);
+    margin:5px;
+    border-radius: 5%;
+}
+#tata{
+    margin-left:20px;
+    height: 150px;
+    width:250px;
+    margin-bottom:50px;
+}
+input{
+    border: solid;
+    border-color:black;
+    height:30px;
+    width:500px;
+    font-size:20px;
+    font-weight: bolder;
+}
+button{
+    height:40px;
+    margin:5px auto;
+    width:80px;
+    font-size:20px;
+    font-weight: bold;
+    transition: transform.2s;
+    border: solid;
+    background: linear-gradient(yellow,red);
+}
+button:hover{
+    transform:scale(0.9);
+    text-shadow: 2px 2px black;
+}
